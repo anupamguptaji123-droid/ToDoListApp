@@ -25,16 +25,19 @@ A simple and interactive To-Do List web application that allows users to manage 
 ## 📂 Project Structure
 
 ToDoListApp/
-│── index.html
-│── style.css
-│── script.js
-│── README.md
+├── index.html      # App structure & layout
+├── style.css       # Styling & responsive design
+└── script.js       # JavaScript logic (add, delete, complete tasks)
 
 
-## 📸 Screenshots
+📸 Preview
 
-* Add Task Interface
-* Task Added with Options (Complete/Delete)
+### Home page
+<img width="506" height="397" alt="Screenshot 2026-04-15 224053" src="https://github.com/user-attachments/assets/c5c4c316-397d-4908-8c1b-bb971983dc49" />
+
+### Working page
+<img width="437" height="434" alt="Screenshot 2026-04-15 224128" src="https://github.com/user-attachments/assets/5ab09321-5829-4204-82b2-804b6d656600" />
+
 
 
 ## ⚙️ How to Run
@@ -43,7 +46,8 @@ ToDoListApp/
 2. Open `index.html` in your browser
 3. Start adding your tasks
 
-## 🌐 Live Demo (Optional)
+## 🌐 Live Demo 
+https://anupamguptaji123-droid.github.io/Portfolio/
 
 
 
