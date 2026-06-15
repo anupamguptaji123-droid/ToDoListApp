@@ -96,13 +96,14 @@ in your browser.
 
 # 📸 Screenshots
 
+<img width="437" height="434" alt="Screenshot 2026-04-15 224128" src="https://github.com/user-attachments/assets/1fda3ce3-be63-498d-9a2e-9c08702dea7f" />
+
+
 ### Empty Task List
 
 ```
 Input Field + Add Button
 Clear All Button
-
-<img width="437" height="434" alt="Screenshot 2026-04-15 224128" src="https://github.com/user-attachments/assets/1fda3ce3-be63-498d-9a2e-9c08702dea7f" />
 
 ```
 
