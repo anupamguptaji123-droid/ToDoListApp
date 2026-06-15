@@ -101,9 +101,10 @@ in your browser.
 ```
 Input Field + Add Button
 Clear All Button
-```
-<img width="437" height="434" alt="Screenshot 2026-04-15 224128" src="https://github.com/user-attachments/assets/703fea42-a7d9-4fd2-ad0f-8faedcaca408" />
 
+<img width="437" height="434" alt="Screenshot 2026-04-15 224128" src="https://github.com/user-attachments/assets/1fda3ce3-be63-498d-9a2e-9c08702dea7f" />
+
+```
 
 ### Task Added
 
