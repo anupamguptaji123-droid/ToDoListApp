@@ -163,7 +163,7 @@ Contributions are welcome!
 
 # 👨‍💻 Author
 
-### Anupam Gupta
+### Anupam 
 
 GitHub: **anupamguptaji123-droid**
 
